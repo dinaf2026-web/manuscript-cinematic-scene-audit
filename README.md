@@ -11,6 +11,12 @@ actor's face, and the internal debate a character would voice in voiceover.
 
 It **diagnoses and flags**; it does not rewrite prose.
 
+> **Runs standalone or as part of the suite.** It works on its own — if there's no
+> `.manuscript/profile.md` and the suite's `manuscript-profile-setup` skill isn't
+> installed, it simply asks you for the POV character, cast, and any special-trait
+> characters (or audits straight from the page). For the full multi-pass workflow,
+> install the [Manuscript Editorial Suite](https://github.com/dinaf2026-web).
+
 ## What it catches
 
 - **Scene population** — characters who vanish without exiting, appear without

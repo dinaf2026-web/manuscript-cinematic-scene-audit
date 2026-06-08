@@ -37,8 +37,12 @@ From the current working directory, walk **up** for `.manuscript/profile.md`.
   any **special spatial/mobility or sensory traits** to track (set in the bible /
   `canon_source` / `load_bearing` / Notes), and any animal or non-human characters
   that occupy space.
-- **Not found** → invoke `manuscript-profile-setup`, then continue. If the author
-  declines, audit from what's on the page and note the cast/traits were unset.
+- **Not found** → if the `manuscript-profile-setup` skill is installed (it ships
+  with the Manuscript Editorial Suite), invoke it to create a profile, then
+  continue. **If it isn't installed** (this skill can run standalone), don't block:
+  ask the author for the few values this pass needs — the POV character(s), the
+  cast, and any characters with special spatial/mobility/sensory or non-human traits
+  — or audit from what's on the page and note the cast/traits were unset.
 
 Load the cast and their physical traits, mobility patterns, and established
 dynamics from the profile's canon source if one exists — some characters have
