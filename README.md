@@ -61,6 +61,11 @@ This is one pass in the Manuscript Editorial Suite (continuity, fair-play,
 prose-immersion, publisher, listing). It runs standalone, or alongside the others
 via the suite's router.
 
+## Related repos
+- [manuscript-editorial-suite](https://github.com/dinaf2026-web/manuscript-editorial-suite) — the full editorial team this pass belongs to.
+- [manuscript-editorial-router](https://github.com/dinaf2026-web/manuscript-editorial-router) — the 6-pass router that dispatches to this pass.
+- [manuscript-editorial-suite-plugin](https://github.com/dinaf2026-web/manuscript-editorial-suite-plugin) — install everything as one Claude Code plugin.
+
 ## Author
 [@dinaf2026-web](https://github.com/dinaf2026-web)
 
