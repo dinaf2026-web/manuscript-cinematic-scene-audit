@@ -1,0 +1,15 @@
+{
+  "name": "manuscript-cinematic-scene-audit",
+  "version": "0.1.0",
+  "description": "Claude Code skill: a cinematic blocking & scene-population auditor \u2014 reads any manuscript scene like a film director (who's in the room, blocking, camera test, voiceover).",
+  "author": {
+    "name": "Dina Farhat"
+  },
+  "homepage": "https://github.com/dinaf2026-web/manuscript-cinematic-scene-audit",
+  "repository": "https://github.com/dinaf2026-web/manuscript-cinematic-scene-audit",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "skills"
+  ]
+}

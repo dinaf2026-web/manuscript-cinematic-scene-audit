@@ -1,0 +1,13 @@
+{
+  "name": "dina-skills",
+  "owner": {
+    "name": "Dina Farhat"
+  },
+  "plugins": [
+    {
+      "name": "manuscript-cinematic-scene-audit",
+      "source": "./",
+      "description": "Claude Code skill: a cinematic blocking & scene-population auditor \u2014 reads any manuscript scene like a film director (who's in the room, blocking, camera test, voiceover)."
+    }
+  ]
+}
